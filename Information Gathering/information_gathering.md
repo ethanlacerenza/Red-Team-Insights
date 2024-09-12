@@ -25,8 +25,8 @@ Whois is a TCP service tool that provides public information about domain regist
 ## Google Hacking
 **Date:** January 14, 2024  
 Google hacking involves using specific operators to perform targeted searches:
-- `site:gti.it filetype:txt` - Searches for text files on the site.
-- To exclude certain file types: `site:gti.it -filetype:txt`
+- `site:git.it filetype:txt` - Searches for text files on the site.
+- To exclude certain file types: `site:git.it -filetype:txt`
 
 ## Open-Source Code
 **Date:** January 19, 2024  
@@ -40,7 +40,7 @@ GitHub can be used to discover sensitive information. For example:
 ## Shodan
 **Date:** January 20, 2024  
 Shodan is a search engine that crawls devices connected to the internet. It can be used to find all internet-connected devices using queries like:
-- `hostname:gti.it`
+- `hostname:git.it`
 
 ## DNS Enumeration
 **Date:** January 20, 2024  
@@ -60,7 +60,7 @@ Additional DNS record types:
 ## DNS Enumeration (Part 3)
 **Date:** January 20, 2024  
 Commands for DNS enumeration:
-- `host -t mx gti.it` - Retrieve MX records.
+- `host -t mx git.it` - Retrieve MX records.
 - `dnsrecon -d (domain) -t (type)` - Perform DNS reconnaissance.
 
 ## TCP/UDP Port Scanning Theory
