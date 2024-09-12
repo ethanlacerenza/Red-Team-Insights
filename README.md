@@ -1,4 +1,4 @@
-# Red Insight
+# Red Team Insight
 
 **Red Insight** is a knowledge repository focused on penetration testing, designed to help security professionals, ethical hackers, and penetration testers deepen their understanding of offensive security and exploit development. This repository covers a wide range of topics, from vulnerability scanning to privilege escalation and beyond.
 
